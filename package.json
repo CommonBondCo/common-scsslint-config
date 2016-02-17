@@ -1,0 +1,17 @@
+{
+  "name": "common-scsslint-config",
+  "version": "1.0.0",
+  "description": "Shared CommonBond SCSSLint Config YML",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CommonBondCo/common-scsslint-config.git"
+  },
+  "keywords": [
+    "SCSS"
+  ],
+  "author": "CommonBond",
+  "license": "MIT"
+}
